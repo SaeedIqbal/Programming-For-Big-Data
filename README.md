@@ -19,17 +19,17 @@ The main objectives of this course are followings:
  <hr>
  <b>Lecture/Jupyter files:	</b><br>
 <a href="https://github.com/SaeedIqbal/Programming-For-Big-Data/blob/master/Untitled2.ipynb">Lecture 1 to 7</a><br>
-<a href="https://github.com/SaeedIqbal/Programming-For-Big-Data/blob/master/Lecture8.ipynb">Lecture 8</a>
+<a href="https://github.com/SaeedIqbal/Programming-For-Big-Data/blob/master/Lecture8.ipynb">Lecture 8</a><br>
 <hr>
  <b>Video Lecture:	</b><br>
 <a href="https://web.microsoftstream.com/video/1307d0e0-1e9e-4adc-8133-bdd0c1dafdc5">PBD - E - Lecture 8
-</a>
-<a href ="https://web.microsoftstream.com/video/d14f736c-2aac-4ed8-8e56-0fec065d2946">PBD - G - Lecture 7</a>
-<a href ="https://web.microsoftstream.com/video/233506d9-a681-42e3-b044-3320ff9efd43">PBD - E - Lecture 7</a>
-<a href ="https://web.microsoftstream.com/video/05b2921a-25e6-4d5e-8cbc-2228441eac0d">PBD - G - Lecture 6</a>
-<a href ="https://web.microsoftstream.com/video/2789743b-0e43-4287-94f7-b0a92bb7ffb7">PBD - E - Lecture 6</a>
-<a href ="https://web.microsoftstream.com/video/3e05625c-c697-405b-9ed8-a6e90f46aa6d">PBD - G - Lecture 5</a>
-<a href ="https://web.microsoftstream.com/video/ba6f1c86-08d5-4f2f-a676-53d49d0a0378">PBD - E - Lecture 5</a>
-<a href ="https://web.microsoftstream.com/video/30407b3d-b432-42a4-8e8b-ac84c9662444">PBD - E&G - Lecture 4</a>
+</a><br>
+<a href ="https://web.microsoftstream.com/video/d14f736c-2aac-4ed8-8e56-0fec065d2946">PBD - G - Lecture 7</a><br>
+<a href ="https://web.microsoftstream.com/video/233506d9-a681-42e3-b044-3320ff9efd43">PBD - E - Lecture 7</a><br>
+<a href ="https://web.microsoftstream.com/video/05b2921a-25e6-4d5e-8cbc-2228441eac0d">PBD - G - Lecture 6</a><br>
+<a href ="https://web.microsoftstream.com/video/2789743b-0e43-4287-94f7-b0a92bb7ffb7">PBD - E - Lecture 6</a><br>
+<a href ="https://web.microsoftstream.com/video/3e05625c-c697-405b-9ed8-a6e90f46aa6d">PBD - G - Lecture 5</a><br>
+<a href ="https://web.microsoftstream.com/video/ba6f1c86-08d5-4f2f-a676-53d49d0a0378">PBD - E - Lecture 5</a><br>
+<a href ="https://web.microsoftstream.com/video/30407b3d-b432-42a4-8e8b-ac84c9662444">PBD - E&G - Lecture 4</a><br>
 
 
