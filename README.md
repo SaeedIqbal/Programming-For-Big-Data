@@ -33,4 +33,10 @@ The main objectives of this course are followings:
 <a href="https://web.microsoftstream.com/video/ba6f1c86-08d5-4f2f-a676-53d49d0a0378">PBD - E - Lecture 5</a><br>
 <a href="https://web.microsoftstream.com/video/30407b3d-b432-42a4-8e8b-ac84c9662444">PBD - E&G - Lecture 4</a><br>
 
+<hr>
+ <b>Assignments	</b><br>
+<a href="">Assignment 1</a><br>
 
+<hr>
+ <b>Quizzes	</b><br>
+<a href="">Quiz 1</a><br>
