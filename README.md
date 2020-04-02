@@ -1,7 +1,8 @@
-# Programming-For-Big-Data
-<b>Course Requirements</b><hr>
+# Programming-For-Big-Data<hr>
+<b>Course Requirements</b><br>
 This course is for students who have some programming and database experience. The objective of this course is to give students some experience in data analysis and developing applications that utilize the vast amount of data that is available to general public to create programs that provides information used in improving the standard of application performance. Discovering how the efficiency of applications can be improved by understanding the data.<br>
-<b>Course Objectives	</b><hr>
+<hr>
+<b>Course Objectives	</b><br>
 The main objectives of this course are followings:
 <ol>
   <li> You will learn the importance, characteristics, principle, and architecture of big data.<\li>
