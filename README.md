@@ -18,4 +18,5 @@ The main objectives of this course are followings:
  </ol>
  <HR>
  <b>Lecture/Jupyter files:	</b><br>
-<a href="https://github.com/SaeedIqbal/Programming-For-Big-Data/blob/master/Lecture8.ipynb">Lecture 1 to 7</a>
+<a href="https://github.com/SaeedIqbal/Programming-For-Big-Data/blob/master/Untitled2.ipynb">Lecture 1 to 7</a><br>
+<a href="https://github.com/SaeedIqbal/Programming-For-Big-Data/blob/master/Lecture8.ipynb">Lecture 8</a>
