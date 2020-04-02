@@ -16,3 +16,6 @@ The main objectives of this course are followings:
   <li> You will learn how to leverage the power of Linux with a Spark Environment.
   <li> You will be able to create a Spam filter using Spark and Natural Language Processing.
  </ol>
+ <HR>
+ <b>Lecture/Jupyter files:	</b><br>
+<a href="https://github.com/SaeedIqbal/Programming-For-Big-Data/blob/master/Lecture8.ipynb">Lecture 1 to 7</a>
