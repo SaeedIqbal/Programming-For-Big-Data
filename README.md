@@ -35,8 +35,8 @@ The main objectives of this course are followings:
 
 <hr>
  <b>Assignments	</b><br>
-<a href="">Assignment 1</a><br>
+<a href="https://github.com/SaeedIqbal/Programming-For-Big-Data/blob/master/A1.pdf">Assignment 1</a><br>
 
 <hr>
  <b>Quizzes	</b><br>
-<a href="">Quiz 1</a><br>
+<a href="https://github.com/SaeedIqbal/Programming-For-Big-Data/blob/master/Q1.pdf">Quiz 1</a><br>
