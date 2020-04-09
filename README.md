@@ -23,8 +23,12 @@ The main objectives of this course are followings:
 <a href="https://github.com/SaeedIqbal/Programming-For-Big-Data/blob/master/Lecture8G.ipynb">Lecture 8 - Section G</a><br>
 <a href="https://github.com/SaeedIqbal/Programming-For-Big-Data/blob/master/Lecture%209%20-%20E.ipynb">Lecture 9 - Section E</a><br>
 <a href="https://github.com/SaeedIqbal/Programming-For-Big-Data/blob/master/Lecture%209%20-%20G.ipynb">Lecture 9 - Section G</a><br>
+<a href="https://github.com/SaeedIqbal/Programming-For-Big-Data/blob/master/Lecture%2010%20-%20E.ipynb">Lecture 10 - Section E</a><br>
+<a href="https://github.com/SaeedIqbal/Programming-For-Big-Data/blob/master/Lecture%2010%20-%20G.ipynb">Lecture 10 - Section G</a><br>
 <hr>
  <b>Video Lecture:	</b><br>
+<a href="https://web.microsoftstream.com/video/26bda017-57a0-490e-ba6c-3227f3e56d19">PBD - G - Lecture 10</a><br>
+<a href="https://web.microsoftstream.com/video/dd173ef3-fd2e-401a-bba3-7e31be7f72f6">PBD - E - Lecture 10</a><br>
 <a href="https://web.microsoftstream.com/video/bb94d124-0248-4cd4-8a41-35b6dc3ab168">PBD - G - Lecture 9</a><br>
 <a href="https://web.microsoftstream.com/video/04068623-618c-45d9-b4c4-e27060e2f992">PBD - E - Lecture 9</a><br>
 <a href="https://web.microsoftstream.com/video/55767671-6b58-47b5-8dff-fdbc725caef0">PBD - G - Lecture 8</a><br>
