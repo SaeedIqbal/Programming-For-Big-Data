@@ -25,8 +25,12 @@ The main objectives of this course are followings:
 <a href="https://github.com/SaeedIqbal/Programming-For-Big-Data/blob/master/Lecture%209%20-%20G.ipynb">Lecture 9 - Section G</a><br>
 <a href="https://github.com/SaeedIqbal/Programming-For-Big-Data/blob/master/Lecture%2010%20-%20E.ipynb">Lecture 10 - Section E</a><br>
 <a href="https://github.com/SaeedIqbal/Programming-For-Big-Data/blob/master/Lecture%2010%20-%20G.ipynb">Lecture 10 - Section G</a><br>
+<a href="https://github.com/SaeedIqbal/Programming-For-Big-Data/blob/master/DataWranglingwithPre-processingSectionE.ipynb">Lecture 11 - Section E</a><br>
+<a href="https://github.com/SaeedIqbal/Programming-For-Big-Data/blob/master/DataWranglingwithPre-processingSectionG.ipynb">Lecture 11 - Section G</a><br>
 <hr>
  <b>Video Lecture:	</b><br>
+<a href="https://web.microsoftstream.com/video/b7d41971-c9ff-48ac-821f-56e250ba6b1b">PBD - G - Lecture 11</a><br>
+<a href="https://web.microsoftstream.com/video/92f40d42-19cb-4d1f-8d80-cc0efb46a5a9">PBD - E - Lecture 11</a><br>
 <a href="https://web.microsoftstream.com/video/26bda017-57a0-490e-ba6c-3227f3e56d19">PBD - G - Lecture 10</a><br>
 <a href="https://web.microsoftstream.com/video/dd173ef3-fd2e-401a-bba3-7e31be7f72f6">PBD - E - Lecture 10</a><br>
 <a href="https://web.microsoftstream.com/video/bb94d124-0248-4cd4-8a41-35b6dc3ab168">PBD - G - Lecture 9</a><br>
@@ -40,7 +44,12 @@ The main objectives of this course are followings:
 <a href="https://web.microsoftstream.com/video/3e05625c-c697-405b-9ed8-a6e90f46aa6d">PBD - G - Lecture 5</a><br>
 <a href="https://web.microsoftstream.com/video/ba6f1c86-08d5-4f2f-a676-53d49d0a0378">PBD - E - Lecture 5</a><br>
 <a href="https://web.microsoftstream.com/video/30407b3d-b432-42a4-8e8b-ac84c9662444">PBD - E&G - Lecture 4</a><br>
-
+<hr>
+ <b>Youtube Video Lecture:	</b><br>
+ <a href="https://youtu.be/FYbPyxtUOMI">Lecture 10 -- Grouping with Pandas</a><br>
+ <a href="https://youtu.be/js18LScKJHc">Data Wrangling -- How to open CSV file and replace column headers 1</a><br>
+ <a href="https://youtu.be/r47CzCnJpUE">Data Wrangling -- How to identify and handle missing values 2</a><br>
+ <a href="https://youtu.be/8veRd_djZhs">Data Wrangling -- How to remove missing values 3</a><br>
 <hr>
  <b>Assignments	</b><br>
 <a href="https://github.com/SaeedIqbal/Programming-For-Big-Data/blob/master/A1.pdf">Assignment 1</a><br>
