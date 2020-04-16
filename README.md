@@ -1,48 +1,3 @@
-<html>
-<head>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-body {font-family: Arial;}
-
-/* Style the tab */
-.tab {
-  overflow: hidden;
-  border: 1px solid #ccc;
-  background-color: #f1f1f1;
-}
-
-/* Style the buttons inside the tab */
-.tab button {
-  background-color: inherit;
-  float: left;
-  border: none;
-  outline: none;
-  cursor: pointer;
-  padding: 14px 16px;
-  transition: 0.3s;
-  font-size: 17px;
-}
-
-/* Change background color of buttons on hover */
-.tab button:hover {
-  background-color: #ddd;
-}
-
-/* Create an active/current tablink class */
-.tab button.active {
-  background-color: #ccc;
-}
-
-/* Style the tab content */
-.tabcontent {
-  display: none;
-  padding: 6px 12px;
-  border: 1px solid #ccc;
-  border-top: none;
-}
-</style>
-</head>
-<body>
 <h1> Programming For Big Data </h1><hr>
 <b>Course Requirements</b><br>
 This course is for students who have some programming and database experience. The objective of this course is to give students some experience in data analysis and developing applications that utilize the vast amount of data that is available to general public to create programs that provides information used in improving the standard of application performance. Discovering how the efficiency of applications can be improved by understanding the data.<br>
@@ -74,12 +29,7 @@ The main objectives of this course are followings:
 <a href="https://github.com/SaeedIqbal/Programming-For-Big-Data/blob/master/DataWranglingwithPre-processingSectionG.ipynb">Lecture 11 - Section G</a><br>
 <a href="https://github.com/SaeedIqbal/Programming-For-Big-Data/blob/master/DataStandardization-PBDSection-E%26G-Lect12.ipynb">Lecture 12 - Section E&G</a><br>
 <hr>
-<div class="tab">
-  <button class="tablinks" onclick="openCity(event, 'Team')">MS Team Video</button>
-  <button class="tablinks" onclick="openCity(event, 'youtube')">Youtube Video</button>
-</div>
-  
-<div id="Team" class="tabcontent">
+
  <b>MS Team Video Lecture:	</b><br>
 <a href="https://web.microsoftstream.com/video/399862d4-bcd2-483e-ba23-92d0ccb1eb17">PBD - E&G - Lecture 12</a><br>
 <a href="https://web.microsoftstream.com/video/b7d41971-c9ff-48ac-821f-56e250ba6b1b">PBD - G - Lecture 11</a><br>
@@ -98,10 +48,6 @@ The main objectives of this course are followings:
 <a href="https://web.microsoftstream.com/video/ba6f1c86-08d5-4f2f-a676-53d49d0a0378">PBD - E - Lecture 5</a><br>
 <a href="https://web.microsoftstream.com/video/30407b3d-b432-42a4-8e8b-ac84c9662444">PBD - E&G - Lecture 4</a><br>
 <hr>
-</div>
-<div id="youtube" class="tabcontent">
-  <p>Paris is the capital of France.</p> 
-</div>
  <b>Youtube Short Video Lecture:	</b><br>
  <a href="https://youtu.be/FYbPyxtUOMI">Lecture 10 -- Grouping with Pandas</a><br>
  <a href="https://youtu.be/js18LScKJHc">Data Wrangling -- How to open CSV file and replace column headers 1</a><br>
@@ -118,22 +64,3 @@ The main objectives of this course are followings:
 <hr>
  <b>Quizzes	</b><br>
 <a href="https://github.com/SaeedIqbal/Programming-For-Big-Data/blob/master/Q1.pdf">Quiz 1</a><br>
-<script>
-function openCity(evt, cityName) {
-  var i, tabcontent, tablinks;
-  tabcontent = document.getElementsByClassName("tabcontent");
-  for (i = 0; i < tabcontent.length; i++) {
-    tabcontent[i].style.display = "none";
-  }
-  tablinks = document.getElementsByClassName("tablinks");
-  for (i = 0; i < tablinks.length; i++) {
-    tablinks[i].className = tablinks[i].className.replace(" active", "");
-  }
-  document.getElementById(cityName).style.display = "block";
-  evt.currentTarget.className += " active";
-}
-</script>
-
-</body>
-
-</html>
