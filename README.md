@@ -27,6 +27,7 @@ The main objectives of this course are followings:
 <a href="https://github.com/SaeedIqbal/Programming-For-Big-Data/blob/master/Lecture%2010%20-%20G.ipynb">Lecture 10 - Section G</a><br>
 <a href="https://github.com/SaeedIqbal/Programming-For-Big-Data/blob/master/DataWranglingwithPre-processingSectionE.ipynb">Lecture 11 - Section E</a><br>
 <a href="https://github.com/SaeedIqbal/Programming-For-Big-Data/blob/master/DataWranglingwithPre-processingSectionG.ipynb">Lecture 11 - Section G</a><br>
+<a href="https://github.com/SaeedIqbal/Programming-For-Big-Data/blob/master/DataStandardization-PBDSection-E%26G-Lect12.ipynb">Lecture 11 - Section G</a><br>
 <hr>
  <b>Video Lecture:	</b><br>
 <a href="https://web.microsoftstream.com/video/b7d41971-c9ff-48ac-821f-56e250ba6b1b">PBD - G - Lecture 11</a><br>
