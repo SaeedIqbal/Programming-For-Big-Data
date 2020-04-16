@@ -52,6 +52,10 @@ The main objectives of this course are followings:
  <a href="https://youtu.be/js18LScKJHc">Data Wrangling -- How to open CSV file and replace column headers 1</a><br>
  <a href="https://youtu.be/r47CzCnJpUE">Data Wrangling -- How to identify and handle missing values 2</a><br>
  <a href="https://youtu.be/8veRd_djZhs">Data Wrangling -- How to remove missing values 3</a><br>
+ <a href="https://youtu.be/ekVJHVII_2c">Data Wrangling -- Data Standardization 4</a><br>
+ <a href="https://youtu.be/ZdkZtJ9U3a8">Data Wrangling -- Data Normalization 5</a><br>
+ <a href="https://youtu.be/dghyfxZihik">Data Wrangling -- Data Visualization 6</a><br>
+ 
 <hr>
  <b>Assignments	</b><br>
 <a href="https://github.com/SaeedIqbal/Programming-For-Big-Data/blob/master/A1.pdf">Assignment 1</a><br>
