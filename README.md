@@ -66,4 +66,9 @@ The main objectives of this course are followings:
 </table>
 <hr>
  <b>Quizzes	</b><br>
-<a href="https://github.com/SaeedIqbal/Programming-For-Big-Data/blob/master/Q1.pdf">Quiz 1</a><br>
+<table>
+<tr><th>Quiz</th><th>Result</th></tr>
+<tr><td><a href="https://github.com/SaeedIqbal/Programming-For-Big-Data/blob/master/Q1.pdf">Quiz 1</a></td><td></td></tr>
+<tr><td>Quiz 2</td><td>April 21, 2020</td></tr>
+</table>
+<hr>
