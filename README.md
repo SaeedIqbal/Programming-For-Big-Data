@@ -29,29 +29,28 @@ The main objectives of this course are followings:
 <a href="https://github.com/SaeedIqbal/Programming-For-Big-Data/blob/master/DataWranglingwithPre-processingSectionG.ipynb">Lecture 11 - Section G</a><br>
 <a href="https://github.com/SaeedIqbal/Programming-For-Big-Data/blob/master/DataStandardization-PBDSection-E%26G-Lect12.ipynb">Lecture 12 - Section E&G</a><br>
 <hr>
-<table>
-  <tr><th>MS Team Video Lecture:</th><th>Youtube Lecture</th></tr>
- <tr><td><a href="https://web.microsoftstream.com/video/399862d4-bcd2-483e-ba23-92d0ccb1eb17">PBD - E&G - Lecture 12</a></td><td><a href="https://youtu.be/UEjBiFo3RpQ">PBD - E&G - Lecture 12</a></td></tr>
-<tr><td><a href="https://web.microsoftstream.com/video/b7d41971-c9ff-48ac-821f-56e250ba6b1b">PBD - G - Lecture 11</a></td><td><a href="https://youtu.be/hDn5VH8QVjg">PBD - G - Lecture 11</a></td></tr>
-<tr><td><a href="https://web.microsoftstream.com/video/92f40d42-19cb-4d1f-8d80-cc0efb46a5a9">PBD - E - Lecture 11</a></td><td><a href="https://youtu.be/5c75AAgmBT4">PBD - E - Lecture 11</a></td></tr>
-<tr><td><a href="https://web.microsoftstream.com/video/26bda017-57a0-490e-ba6c-3227f3e56d19">PBD - G - Lecture 10</a></td><td></td></tr>
-<tr><td><a href="https://web.microsoftstream.com/video/dd173ef3-fd2e-401a-bba3-7e31be7f72f6">PBD - E - Lecture 10</a></td><td></td></tr>
+<table><tr><th>MS Team Video Lecture:</th> <th>Youtube Lecture</th> </tr>
+<tr><td><a href="https://web.microsoftstream.com/video/399862d4-bcd2-483e-ba23-92d0ccb1eb17">PBD - E&G - Lecture 12</a></td> <td><a href="https://youtu.be/UEjBiFo3RpQ">PBD - E&G - Lecture 12</a></td></tr>
+<tr><td><a href="https://web.microsoftstream.com/video/b7d41971-c9ff-48ac-821f-56e250ba6b1b">PBD - G - Lecture 11</a></td> <td><a href="https://youtu.be/hDn5VH8QVjg">PBD - G - Lecture 11</a></td></tr>
+<tr><td><a href="https://web.microsoftstream.com/video/92f40d42-19cb-4d1f-8d80-cc0efb46a5a9">PBD - E - Lecture 11</a></td> <td><a href="https://youtu.be/5c75AAgmBT4">PBD - E - Lecture 11</a></td></tr>
+<tr><td><a href="https://web.microsoftstream.com/video/26bda017-57a0-490e-ba6c-3227f3e56d19">PBD - G - Lecture 10</a></td> <td></td></tr>
+<tr><td><a href="https://web.microsoftstream.com/video/dd173ef3-fd2e-401a-bba3-7e31be7f72f6">PBD - E - Lecture 10</a></td> <td></td></tr>
 <tr><td><a href="https://web.microsoftstream.com/video/bb94d124-0248-4cd4-8a41-35b6dc3ab168">PBD - G - Lecture 9</a></td><td></td></tr>
 <tr><td><a href="https://web.microsoftstream.com/video/04068623-618c-45d9-b4c4-e27060e2f992">PBD - E - Lecture 9</a></td><td></td></tr>
 <tr><td><a href="https://web.microsoftstream.com/video/55767671-6b58-47b5-8dff-fdbc725caef0">PBD - G - Lecture 8</a></td><td></td></tr>
 <tr><td><a href="https://web.microsoftstream.com/video/1307d0e0-1e9e-4adc-8133-bdd0c1dafdc5">PBD - E - Lecture 8</a></td><td></td></tr>
 <tr><td><a href="https://web.microsoftstream.com/video/d14f736c-2aac-4ed8-8e56-0fec065d2946">PBD - G - Lecture 7</a></td><td></td></tr>
-<tr><td><a href="https://web.microsoftstream.com/video/233506d9-a681-42e3-b044-3320ff9efd43">PBD - E - Lecture 7</a></td><td></td><</td><td></td></tr>
+<tr><td><a href="https://web.microsoftstream.com/video/233506d9-a681-42e3-b044-3320ff9efd43">PBD - E - Lecture 7</a></td><td></td></tr>
 <tr><td><a href="https://web.microsoftstream.com/video/05b2921a-25e6-4d5e-8cbc-2228441eac0d">PBD - G - Lecture 6</a></td><td></td></tr>
 <tr><td><a href="https://web.microsoftstream.com/video/2789743b-0e43-4287-94f7-b0a92bb7ffb7">PBD - E - Lecture 6</a></td><td></td></tr>
 <tr><td><a href="https://web.microsoftstream.com/video/3e05625c-c697-405b-9ed8-a6e90f46aa6d">PBD - G - Lecture 5</a></td><td></td></tr>
-<tr><td><a href="https://web.microsoftstream.com/video/ba6f1c86-08d5-4f2f-a676-53d49d0a0378">PBD - E - Lecture 5</a></td><td></td><</td><td></td></tr>
-<tr><td><a href="https://web.microsoftstream.com/video/30407b3d-b432-42a4-8e8b-ac84c9662444">PBD - E&G - Lecture 4</a></td><td></td></tr></td><td></td><</td><td></td></tr>
-</ta</td><td></td></tr>
-</td><td></td></tr>
- <b>Youtube Short Video Lecture:	</b></td><td></td></tr>
- <a href="https://youtu.be/FYbPyxtUOMI">Lecture 10 -- Grouping with Pandas</a></td><td></td></tr>
- <a href="https://youtu.be/js18LScKJHc">Data Wrangling -- How to open CSV file and replace column headers 1</a></td><td></td></tr>
+<tr><td><a href="https://web.microsoftstream.com/video/ba6f1c86-08d5-4f2f-a676-53d49d0a0378">PBD - E - Lecture 5</a></td><td></td></tr>
+<tr><td><a href="https://web.microsoftstream.com/video/30407b3d-b432-42a4-8e8b-ac84c9662444">PBD - E&G - Lecture 4</a></td><td></td></tr>
+</table>
+<hr>
+<b>Youtube Short Video Lecture:</b>	
+ <a href="https://youtu.be/FYbPyxtUOMI">Lecture 10 -- Grouping with Pandas</a><br>
+ <a href="https://youtu.be/js18LScKJHc">Data Wrangling -- How to open CSV file and replace column headers 1</a><br>
  <a href="https://youtu.be/r47CzCnJpUE">Data Wrangling -- How to identify and handle missing values 2</a><br>
  <a href="https://youtu.be/8veRd_djZhs">Data Wrangling -- How to remove missing values 3</a><br>
  <a href="https://youtu.be/ekVJHVII_2c">Data Wrangling -- Data Standardization 4</a><br>
