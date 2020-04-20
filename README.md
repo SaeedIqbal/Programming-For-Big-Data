@@ -63,7 +63,7 @@ The main objectives of this course are followings:
 <tr><th>Assignment</th><th>Deadline</th></tr>
 <tr><td><a href="https://github.com/SaeedIqbal/Programming-For-Big-Data/blob/master/A1.pdf">Assignment 1</a></td><td></td></tr>
 <tr><td><a href="https://github.com/SaeedIqbal/Programming-For-Big-Data/blob/master/A2.pdf">Assignment 2</a></td><td>April 27, 2020</td></tr>
-
+</table>
 <hr>
  <b>Quizzes	</b><br>
 <a href="https://github.com/SaeedIqbal/Programming-For-Big-Data/blob/master/Q1.pdf">Quiz 1</a><br>
