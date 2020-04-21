@@ -61,15 +61,15 @@ The main objectives of this course are followings:
 <hr>
 <b>Assignments	</b><br>
 <table>
-<tr><th>Assignment</th><th>Deadline</th></tr>
-<tr><td><a href="https://github.com/SaeedIqbal/Programming-For-Big-Data/blob/master/A1.pdf">Assignment 1</a></td><td></td></tr>
-<tr><td><a href="https://github.com/SaeedIqbal/Programming-For-Big-Data/blob/master/A2.pdf">Assignment 2</a></td><td>April 27, 2020</td></tr>
+<tr><th>Assignment</th><th>Deadline</th><th>Section E Result</th><th>Section G Result</th></tr>
+<tr><td><a href="https://github.com/SaeedIqbal/Programming-For-Big-Data/blob/master/A1.pdf">Assignment 1</a></td><td></td><td><a href="https://github.com/SaeedIqbal/Programming-For-Big-Data/blob/master/SectionEResult.xlsx">Section E</a></td><td><a href="https://github.com/SaeedIqbal/Programming-For-Big-Data/blob/master/SectionGResult.xlsx">Section G</a></td></tr>
+<tr><td><a href="https://github.com/SaeedIqbal/Programming-For-Big-Data/blob/master/A2.pdf">Assignment 2</a></td><td>April 27, 2020</td><td></td><td></td></tr>
 </table>
 <hr>
  <b>Quizzes	</b><br>
 <table>
-<tr><th>Quiz</th><th>Result</th></tr>
-<tr><td><a href="https://github.com/SaeedIqbal/Programming-For-Big-Data/blob/master/Q1.pdf">Quiz 1</a></td><td></td></tr>
+<tr><th>Quiz</th><th>Section E Result</th><th>Section G Result</th></tr>
+<tr><td><a href="https://github.com/SaeedIqbal/Programming-For-Big-Data/blob/master/Q1.pdf">Quiz 1</a></td><td><a href="https://github.com/SaeedIqbal/Programming-For-Big-Data/blob/master/SectionEResult.xlsx">Section E</a></td><td><a href="https://github.com/SaeedIqbal/Programming-For-Big-Data/blob/master/SectionGResult.xlsx">Section G</a></td></tr>
 <tr><td>Quiz 2</td><td>April 21, 2020</td></tr>
 </table>
 <hr>
