@@ -57,6 +57,10 @@ The main objectives of this course are followings:
  <tr><td><a href="https://youtu.be/ekVJHVII_2c">Data Wrangling -- Data Standardization 4</a></td></tr>
  <tr><td><a href="https://youtu.be/ZdkZtJ9U3a8">Data Wrangling -- Data Normalization 5</a></td></tr>
  <tr><td><a href="https://youtu.be/dghyfxZihik">Data Wrangling -- Data Visualization 6</a></td></tr>
+ <tr><td><a href="https://youtu.be/w3Gnt2CpvOc">Data Visualization using matplotlib 1</a></td></tr>
+ <tr><td><a href="https://youtu.be/vNtgh0vwIng">Data Visualization using matplotlib -- sub plotting 2</a></td></tr> 
+ <tr><td><a href="https://youtu.be/mddytSoTiXQ">Data Visualization using matplotlib -- Pie Chart 3</a></td></tr>  
+  
 </table> 
 <hr>
 <b>Assignments	</b><br>
