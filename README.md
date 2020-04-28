@@ -71,6 +71,7 @@ The main objectives of this course are followings:
  <tr><td><a href="https://youtu.be/vNtgh0vwIng">Data Visualization using matplotlib -- sub plotting 2</a></td></tr> 
  <tr><td><a href="https://youtu.be/mddytSoTiXQ">Data Visualization using matplotlib -- Pie Chart 3</a></td></tr>
  <tr><td><a href="https://youtu.be/08u8ukdN4OM">Data Visualization using matplotlib -- Bar Graph 4</a></td></tr>
+  <tr><td><a href="https://youtu.be/Ubl4wQfHdKc">Data Visualization using matplotlib -- Scatter and 3D Plotting 5</a></td></tr>
 </table> 
 <hr>
 <b>Assignments	</b><br>
