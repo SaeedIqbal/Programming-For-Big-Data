@@ -35,6 +35,8 @@ The main objectives of this course are followings:
 
 <tr><td><a href="https://web.microsoftstream.com/video/9c8b9b01-a01e-4406-bcf1-386ba63ad666">PBD - G - Lecture 15</a></td> <td><a href="https://youtu.be/ec-wzVVv19Y">PBD - G - Lecture 15</a></td></tr>  
 <tr><td><a href="https://web.microsoftstream.com/video/d0cf7e92-4e55-4f19-ba23-6cb0acf7103b">PBD - E - Lecture 15</a></td> <td><a href="https://youtu.be/MT3hbDnJWF4">PBD - E - Lecture 15</a></td></tr>
+<tr><td><a href="https://web.microsoftstream.com/video/4e04ba85-0dfc-4e9a-bdfb-48570aaf4331">PBD - G - Lecture 14</a></td> <td><a href="https://youtu.be/Rm4GWCK5QCY">PBD - G - Lecture 14</a></td></tr>
+<tr><td><a href="https://web.microsoftstream.com/video/3facabce-4bc1-478f-8604-9901522a49df">PBD - E - Lecture 14</a></td> <td><a href="https://youtu.be/wCcz6VrCxCw">PBD - E - Lecture 14</a></td></tr>
 <tr><td><a href="https://web.microsoftstream.com/video/399862d4-bcd2-483e-ba23-92d0ccb1eb17">PBD - E&G - Lecture 12</a></td> <td><a href="https://youtu.be/UEjBiFo3RpQ">PBD - E&G - Lecture 12</a></td></tr>
 <tr><td><a href="https://web.microsoftstream.com/video/b7d41971-c9ff-48ac-821f-56e250ba6b1b">PBD - G - Lecture 11</a></td> <td><a href="https://youtu.be/hDn5VH8QVjg">PBD - G - Lecture 11</a></td></tr>
 <tr><td><a href="https://web.microsoftstream.com/video/92f40d42-19cb-4d1f-8d80-cc0efb46a5a9">PBD - E - Lecture 11</a></td> <td><a href="https://youtu.be/5c75AAgmBT4">PBD - E - Lecture 11</a></td></tr>
