@@ -30,6 +30,9 @@ The main objectives of this course are followings:
 <a href="https://github.com/SaeedIqbal/Programming-For-Big-Data/blob/master/DataStandardization-PBDSection-E%26G-Lect12.ipynb">Lecture 12 - Section E&G</a><br>
 <a href="https://github.com/SaeedIqbal/Programming-For-Big-Data/blob/master/Lecture14MatplotlibSectionE.ipynb">Lecture 14 - Section E</a><br>
 <a href="https://github.com/SaeedIqbal/Programming-For-Big-Data/blob/master/Lecture14MatplotlibSectionG.ipynb">Lecture 14 - Section G</a><br>
+<a href="https://github.com/SaeedIqbal/Programming-For-Big-Data/blob/master/ExploratoryDataAnalysisLectureE15.ipynb">Lecture 15 - Section E</a><br>
+<a href="https://github.com/SaeedIqbal/Programming-For-Big-Data/blob/master/ExploratoryDataAnalysisLectureG15.ipynb">Lecture 15 - Section G</a><br>
+
 <hr>
 <table><tr><th>MS Team Video Lecture:</th> <th>Youtube Lecture</th> </tr>
 
