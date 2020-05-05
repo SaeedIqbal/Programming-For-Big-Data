@@ -34,10 +34,13 @@ The main objectives of this course are followings:
 <a href="https://github.com/SaeedIqbal/Programming-For-Big-Data/blob/master/ExploratoryDataAnalysisLectureG15.ipynb">Lecture 15 - Section G</a><br>
 <a href="https://github.com/SaeedIqbal/Programming-For-Big-Data/blob/master/ExploratoryDataAnalysisLectureE16.ipynb">Lecture 16 - Section E</a><br>
 <a href="https://github.com/SaeedIqbal/Programming-For-Big-Data/blob/master/ExploratoryDataAnalysisLectureG16.ipynb">Lecture 16 - Section G</a><br>
+<a href="https://github.com/SaeedIqbal/Programming-For-Big-Data/blob/master/Lecture-SLR.pdf">Lecture 17 - Section E&G</a><br>
 
 <hr>
 <table><tr><th>MS Team Video Lecture:</th> <th>Youtube Lecture</th> </tr>
-<tr><td><a href="https://web.microsoftstream.com/video/a62d9d1e-c821-41b5-b2da-faef9794d869">PBD - E - Lecture 16</a></td> <td><a href="https://youtu.be/kqwtlSP-PcY">PBD - G - Lecture 16</a></td></tr>
+<tr><td><a href="https://web.microsoftstream.com/video/a5937351-2667-43ab-aa2e-2067d2e50222">PBD - G - Lecture 17</a></td> <td><a href="https://youtu.be/RVQTdvo7_Bw">PBD - G - Lecture 17</a></td></tr>
+<tr><td><a href="https://web.microsoftstream.com/video/aa61c0f1-b09c-4caf-80b8-2cf20e0a5904">PBD - E - Lecture 17</a></td> <td><a href="https://youtu.be/AwojcdNRWUg">PBD - E - Lecture 17</a></td></tr>
+<tr><td><a href="https://web.microsoftstream.com/video/a62d9d1e-c821-41b5-b2da-faef9794d869">PBD - G - Lecture 16</a></td> <td><a href="https://youtu.be/kqwtlSP-PcY">PBD - G - Lecture 16</a></td></tr>
 <tr><td><a href="https://web.microsoftstream.com/video/7fa02beb-21d4-4bc1-a462-4c044c301ac2">PBD - E - Lecture 16</a></td> <td><a href="https://youtu.be/z6WyCLpJ1Mg">PBD - E - Lecture 16</a></td></tr>
 <tr><td><a href="https://web.microsoftstream.com/video/9c8b9b01-a01e-4406-bcf1-386ba63ad666">PBD - G - Lecture 15</a></td> <td><a href="https://youtu.be/ec-wzVVv19Y">PBD - G - Lecture 15</a></td></tr>  
 <tr><td><a href="https://web.microsoftstream.com/video/d0cf7e92-4e55-4f19-ba23-6cb0acf7103b">PBD - E - Lecture 15</a></td> <td><a href="https://youtu.be/MT3hbDnJWF4">PBD - E - Lecture 15</a></td></tr>
