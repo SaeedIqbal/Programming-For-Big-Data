@@ -35,9 +35,13 @@ The main objectives of this course are followings:
 <a href="https://github.com/SaeedIqbal/Programming-For-Big-Data/blob/master/ExploratoryDataAnalysisLectureE16.ipynb">Lecture 16 - Section E</a><br>
 <a href="https://github.com/SaeedIqbal/Programming-For-Big-Data/blob/master/ExploratoryDataAnalysisLectureG16.ipynb">Lecture 16 - Section G</a><br>
 <a href="https://github.com/SaeedIqbal/Programming-For-Big-Data/blob/master/Lecture-SLR.pdf">Lecture 17 - Section E&G</a><br>
-
+<a href="https://github.com/SaeedIqbal/Programming-For-Big-Data/blob/master/LinearRegressionUsingPython.ipynb">Lecture 18 - Section E</a><br>
+<a href="https://github.com/SaeedIqbal/Programming-For-Big-Data/blob/master/LinearRegressionUsingPythonforSectionG.ipynb">Lecture 18 - Section G</a><br>
 <hr>
 <table><tr><th>MS Team Video Lecture:</th> <th>Youtube Lecture</th> </tr>
+
+<tr><td><a href="https://web.microsoftstream.com/video/81379993-e1a3-4577-a601-7a544f99f41b">PBD - G - Lecture 18</a></td> <td><a href="https://youtu.be/cRdVUC5AGKg">PBD - G - Lecture 18</a></td></tr>  
+<tr><td><a href="https://web.microsoftstream.com/video/d039997e-9067-4016-94d7-1cb7a5a7fd61">PBD - E - Lecture 18</a></td> <td><a href="https://youtu.be/XLcvk-VQOzI">PBD - E - Lecture 18</a></td></tr>
 <tr><td><a href="https://web.microsoftstream.com/video/a5937351-2667-43ab-aa2e-2067d2e50222">PBD - G - Lecture 17</a></td> <td><a href="https://youtu.be/RVQTdvo7_Bw">PBD - G - Lecture 17</a></td></tr>
 <tr><td><a href="https://web.microsoftstream.com/video/aa61c0f1-b09c-4caf-80b8-2cf20e0a5904">PBD - E - Lecture 17</a></td> <td><a href="https://youtu.be/AwojcdNRWUg">PBD - E - Lecture 17</a></td></tr>
 <tr><td><a href="https://web.microsoftstream.com/video/a62d9d1e-c821-41b5-b2da-faef9794d869">PBD - G - Lecture 16</a></td> <td><a href="https://youtu.be/kqwtlSP-PcY">PBD - G - Lecture 16</a></td></tr>
@@ -92,5 +96,6 @@ The main objectives of this course are followings:
 <tr><th>Quiz</th><th>Section E Result</th><th>Section G Result</th></tr>
 <tr><td><a href="https://github.com/SaeedIqbal/Programming-For-Big-Data/blob/master/Q1.pdf">Quiz 1</a></td><td><a href="https://github.com/SaeedIqbal/Programming-For-Big-Data/blob/master/SectionEResult.xlsx">Section E</a></td><td><a href="https://github.com/SaeedIqbal/Programming-For-Big-Data/blob/master/SectionGResult.xlsx">Section G</a></td></tr>
 <tr><td><a href="https://github.com/SaeedIqbal/Programming-For-Big-Data/blob/master/Q2.pdf">Quiz 2</a></td><td></td><td></td></tr>
+ <tr><td><a href="https://github.com/SaeedIqbal/Programming-For-Big-Data/blob/master/Q3.pdf">Quiz 3</a></td><td></td><td></td></tr>
 </table>
 <hr>
