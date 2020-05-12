@@ -39,7 +39,8 @@ The main objectives of this course are followings:
 <a href="https://github.com/SaeedIqbal/Programming-For-Big-Data/blob/master/LinearRegressionUsingPythonforSectionG.ipynb">Lecture 18 - Section G</a><br>
 <hr>
 <table><tr><th>MS Team Video Lecture:</th> <th>Youtube Lecture</th> </tr>
-
+<tr><td><a href="https://web.microsoftstream.com/video/348a3f80-92ad-4516-b5a9-a9bbb9fb5533">PBD - G - Lecture 19</a></td> <td><a href="https://youtu.be/qNyeXMPfnas">PBD - G - Lecture 19</a></td></tr>
+<tr><td><a href="https://web.microsoftstream.com/video/b58bfb68-f2c5-4b3e-9b20-b942bf8b32f0">PBD - E - Lecture 19</a></td> <td><a href="https://youtu.be/Kn21_usyHwI">PBD - E - Lecture 19</a></td></tr>
 <tr><td><a href="https://web.microsoftstream.com/video/81379993-e1a3-4577-a601-7a544f99f41b">PBD - G - Lecture 18</a></td> <td><a href="https://youtu.be/cRdVUC5AGKg">PBD - G - Lecture 18</a></td></tr>  
 <tr><td><a href="https://web.microsoftstream.com/video/d039997e-9067-4016-94d7-1cb7a5a7fd61">PBD - E - Lecture 18</a></td> <td><a href="https://youtu.be/XLcvk-VQOzI">PBD - E - Lecture 18</a></td></tr>
 <tr><td><a href="https://web.microsoftstream.com/video/a5937351-2667-43ab-aa2e-2067d2e50222">PBD - G - Lecture 17</a></td> <td><a href="https://youtu.be/RVQTdvo7_Bw">PBD - G - Lecture 17</a></td></tr>
