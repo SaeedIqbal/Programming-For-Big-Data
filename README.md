@@ -40,7 +40,7 @@ The main objectives of this course are followings:
 <hr>
 <table><tr><th>MS Team Video Lecture:</th> <th>Youtube Lecture</th> </tr>
   <tr><td><a href="https://web.microsoftstream.com/video/763ca567-fc6e-414a-87c0-a751e9b30683">PBD - G - Lecture 20</a></td> <td><a href="https://youtu.be/7fNpvZAlRHo">PBD - G - Lecture 20</a></td></tr>
-<tr><td><a href="https://web.microsoftstream.com/video/6b10e286-9cae-4758-a729-eff2fb37a3a5">PBD - E - Lecture 20 - 1</a>&nbsp; and <a href="https://web.microsoftstream.com/video/06fa5287-87f5-4eb1-a489-5e60d09460db">2</a></td> <td><a href="https://youtu.be/XhOBk3RJ6nA">PBD - E - Lecture 20 - 1</a>&nbsp; and <a href="https://youtu.be/FrAiXucoR0s">2</a></td></tr>
+<tr><td><a href="https://web.microsoftstream.com/video/6b10e286-9cae-4758-a729-eff2fb37a3a5">PBD - E - Lecture 20 - 1</a>&nbsp; & <a href="https://web.microsoftstream.com/video/06fa5287-87f5-4eb1-a489-5e60d09460db">2</a></td> <td><a href="https://youtu.be/XhOBk3RJ6nA">PBD - E - Lecture 20 - 1</a>&nbsp; & <a href="https://youtu.be/FrAiXucoR0s">2</a></td></tr>
 <tr><td><a href="https://web.microsoftstream.com/video/348a3f80-92ad-4516-b5a9-a9bbb9fb5533">PBD - G - Lecture 19</a></td> <td><a href="https://youtu.be/qNyeXMPfnas">PBD - G - Lecture 19</a></td></tr>
 <tr><td><a href="https://web.microsoftstream.com/video/b58bfb68-f2c5-4b3e-9b20-b942bf8b32f0">PBD - E - Lecture 19</a></td> <td><a href="https://youtu.be/Kn21_usyHwI">PBD - E - Lecture 19</a></td></tr>
 <tr><td><a href="https://web.microsoftstream.com/video/81379993-e1a3-4577-a601-7a544f99f41b">PBD - G - Lecture 18</a></td> <td><a href="https://youtu.be/cRdVUC5AGKg">PBD - G - Lecture 18</a></td></tr>  
